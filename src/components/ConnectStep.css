@@ -1,0 +1,13 @@
+
+.Mui-completed+div>.MuiStepConnector-line{
+    /* background: linear-gradient(dodgerblue 20%, grey 80%); */
+    border-color: #6a5acd !important;
+
+}
+.MuiStepLabel-iconContainer>.Mui-completed{
+    color:#6a5acd !important;
+}
+.MuiStepLabel-iconContainer>.Mui-active{
+    color:#6a5acd !important;
+}
+
