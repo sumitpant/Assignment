@@ -33,7 +33,7 @@ const TitleComp = ({title ,subtitle ,active ,change}) => {
           active===0? <RegForm label1={"WorkSpace Name"} label2={"WorkSpaceUrl"} change ={change} active={active}/> :null
           }
           {
-          active ==1 ? <Cover change ={change}/>:null
+          active ===1 ? <Cover change ={change}/>:null
           }
             
         </div>
